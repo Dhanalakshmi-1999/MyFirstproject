@@ -7,6 +7,9 @@ public class calc {
 	public static void findSum(int num1,int num2) {
 		System.out.println(num1+num2);
 		}
+	public static void findProduct(int num1,int num2) {
+		System.out.println(num1*num2);
+		}
 	//nothing
 	public static void findCube(int num) {
 		System.out.println(num*num *num);
